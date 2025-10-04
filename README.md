@@ -8,13 +8,13 @@ Next.jsとSupabaseを用いたAHPによる意思決定サポートアプリで�
 
 ## サイトURL
 <未定>
-ゲストログイン
-ユーザID: test
-PassWord: pass_123
+- ゲストログイン
+- ユーザID: test
+- PassWord: pass_123
 
 ## 使用技術
-- フロントエンド：Next.js 15.3
-- バックエンド：Next.js 15.3
+- フロントエンド：Next.js XX.XX
+- バックエンド：Next.js XX.XX
 - データベース：Supabase
 - デプロイ：Vercel
 - バージョン管理：Git、GitHub
