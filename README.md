@@ -5,7 +5,7 @@ AHP-GO バージョン 1.0.0
 Next.jsとSupabaseを用いたAHPによる意思決定サポートアプリです。
 
 ## サイトイメージ
-![アプリ画面](/docs/main.png)
+![アプリ画面](/docs/HomePage.png)
 
 ## サイトURL
 <未定>
