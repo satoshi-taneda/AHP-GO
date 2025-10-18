@@ -5,7 +5,7 @@ AHP-GO バージョン 1.0.0
 Next.jsとSupabaseを用いたAHPによる意思決定サポートアプリです。
 
 ## サイトイメージ
-![アプリ画面](/docs/HomePage2.png)
+![アプリ画面](/docs/HomePage3.png)
 
 ## サイトURL
 [https://ahp-go-app.vercel.app](https://ahp-go-app.vercel.app/home)
