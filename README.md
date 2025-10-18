@@ -8,10 +8,10 @@ Next.jsとSupabaseを用いたAHPによる意思決定サポートアプリで�
 ![アプリ画面](/docs/HomePage2.png)
 
 ## サイトURL
-<未定>
+[https://ahp-go-app.vercel.app](https://ahp-go-app.vercel.app/home)
 - ゲストログイン
-- ユーザID: test
-- PassWord: pass_123
+- ユーザID: *
+- PassWord: *
 
 ## 使用技術
 - フロントエンド：Next.js XX.XX
