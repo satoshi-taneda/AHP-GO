@@ -3,6 +3,11 @@ AHP-GO バージョン 1.0.0
 
 ## アプリ概要
 Next.jsとSupabaseを用いたAHPによる意思決定サポートアプリです。
+AHP-GOは、ユーザーが複数の候補（商品やサービス）を合理的に比較し、最適な選択を支援する意思決定サポートアプリです。
+AHP（階層分析法）を用いて、ユーザーが自分の重視する基準（価格・デザイン・ブランドなど）を記入し構造的に行えます。
+
+## 対応する課題とソリューション概要
+差別化ポイント：広告なし・シンプルUI・AHP専用スコアリングを実装。楽天やAmazonのようなECとは異なり、「意思決定支援」に特化。
 
 ## サイトイメージ
 ![アプリ画面](/docs/HomePage.png)
@@ -14,13 +19,14 @@ Next.jsとSupabaseを用いたAHPによる意思決定サポートアプリで�
 - PassWord: Test0804
 
 ## 使用技術
-- フロントエンド：Next.js XX.XX
+- フロントエンド：Next.js、React(React HooksまたはContext API)、Tailwind CSS
 - バックエンド：Next.js XX.XX
 - データベース：Supabase
 - デプロイ：Vercel
 - バージョン管理：Git、GitHub
 - テスト・デバッグ：DevTools（Safari）
 - CI/CD：GitHub Actions（ESLint）
+- API: Rakuten Developers
 
 ## 設計ドキュメント
 [要件定義・基本設計・詳細設計の一覧_Googleスプレットシート](https://docs.google.com/spreadsheets/d/1V91GRCaYrSsLrcwU9XdJmRWXALMv9mCTmsPwTVjy8nw/edit?usp=share_link)
@@ -35,11 +41,10 @@ Next.jsとSupabaseを用いたAHPによる意思決定サポートアプリで�
 - AHP計算(総合評価の算出)
 - 棒グラフ表示
 - プロジェクト管理
-  - 作成
-  - 編集
-  - 削除
-- 商品検索
-  - 楽天API(Rakuten Developers) 
+  - 最終目標・評価基準・候補の作成
+  - 最終目標・評価基準・候補の編集
+  - 最終目標・評価基準・候補の削除
+- 楽天APIを使用した候補(商品など)検索 
 
 ## テスト修正の設計及び実施書
 [テスト修正の設計及び実施書_Googleスプレットシート](https://docs.google.com/spreadsheets/d/1l6FGZCC654AA0JGc9Yi5ejwNrD9lYrjsGLORNtGYA0Y/edit?usp=sharing)
