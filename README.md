@@ -20,13 +20,13 @@ AHP（階層分析法）を用いて、ユーザーが自分の重視する基�
 
 ## 使用技術
 - フロントエンド：Next.js、React(React HooksまたはContext API)、Tailwind CSS
-- バックエンド：Next.js XX.XX
+- バックエンド：Next.js
 - データベース：Supabase
 - デプロイ：Vercel
 - バージョン管理：Git、GitHub
 - テスト・デバッグ：DevTools（Safari）
 - CI/CD：GitHub Actions（ESLint）
-- API: Rakuten Developers
+- API: GoogleOAuth、Supabase Auth、Rakuten Developers
 
 ## 設計ドキュメント
 [要件定義・基本設計・詳細設計の一覧_Googleスプレットシート](https://docs.google.com/spreadsheets/d/1V91GRCaYrSsLrcwU9XdJmRWXALMv9mCTmsPwTVjy8nw/edit?usp=share_link)
