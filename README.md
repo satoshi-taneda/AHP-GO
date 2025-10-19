@@ -35,7 +35,7 @@ Next.jsとSupabaseを用いたAHPによる意思決定サポートアプリで�
 - 計算履歴保存
 
 ## テスト修正の設計及び実施書
-[テスト修正の設計及び実施書_Googleスプレットシート]](https://docs.google.com/spreadsheets/d/1l6FGZCC654AA0JGc9Yi5ejwNrD9lYrjsGLORNtGYA0Y/edit?usp=sharing)
+[テスト修正の設計及び実施書_Googleスプレットシート](https://docs.google.com/spreadsheets/d/1l6FGZCC654AA0JGc9Yi5ejwNrD9lYrjsGLORNtGYA0Y/edit?usp=sharing)
 
 ## アプリの改善案
 [アプリの改善案_Googleスプレットシート]](./)
