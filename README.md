@@ -28,11 +28,14 @@ Next.jsとSupabaseを用いたAHPによる意思決定サポートアプリで�
 詳細設計時のワイヤーフレーム、E-R図、フローチャートの画像はdocsディレクトリに格納しています。[こちらからアクセス](./docs)
 
 ## 機能一覧
-- 会員登録、ログイン機能(メールアドレス)
-- AHP計算
-- 商品情報の検索
+- 会員登録・ログイン機能
+  - メールアドレス
+  - Google認証
+- AHP計算(総合評価)
+- 棒グラフ表示
+- AHPプロジェクト管理(作成→編集→削除)
+- 商品検索
   - 楽天API(Rakuten Developers) 
-- 計算履歴保存
 
 ## テスト修正の設計及び実施書
 [テスト修正の設計及び実施書_Googleスプレットシート](https://docs.google.com/spreadsheets/d/1l6FGZCC654AA0JGc9Yi5ejwNrD9lYrjsGLORNtGYA0Y/edit?usp=sharing)
