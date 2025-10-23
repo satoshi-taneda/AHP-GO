@@ -2,7 +2,7 @@
 
 ## アプリ概要
 AHP-GOは、ユーザーが複数の候補（商品やサービス）を合理的に比較し、最適な選択を支援する意思決定サポートアプリです。
-AHP（階層分析法）を用いて、ユーザーが自分の重視する基準（価格・デザイン・ブランドなど）を記入し構造的に行えます。
+自分の重視する基準（価格・デザイン・ブランドなど）を元に、手軽にAHP(階層化意思決定法)を実施できます。
 
 ## 対応する課題とソリューション概要
 - 広告なし・シンプルUI・AHP専用スコアリングを実装。
@@ -26,7 +26,7 @@ AHP（階層分析法）を用いて、ユーザーが自分の重視する基�
 - バージョン管理：Git、GitHub
 - テスト・デバッグ：DevTools（Safari）
 - CI/CD：GitHub Actions（ESLint）
-- API: Google OAuth、Supabase Auth、Rakuten Developers
+- API: Google OAuth、Supabase Auth、Rakuten Developers、Gemini API
 
 ## 設計ドキュメント
 [要件定義・基本設計・詳細設計の一覧_Googleスプレットシート](https://docs.google.com/spreadsheets/d/1V91GRCaYrSsLrcwU9XdJmRWXALMv9mCTmsPwTVjy8nw/edit?usp=share_link)
@@ -44,7 +44,8 @@ AHP（階層分析法）を用いて、ユーザーが自分の重視する基�
   - 最終目標・評価基準・候補の作成
   - 最終目標・評価基準・候補の編集
   - 最終目標・評価基準・候補の削除
-- 楽天APIを使用した候補(商品など)検索 
+- RakutenAPIを使用した商品検索
+- GeminiAPIを利用した商品情報の要約
 
 ## テスト修正の設計及び実施書
 [テスト修正の設計及び実施書_Googleスプレットシート](https://docs.google.com/spreadsheets/d/1l6FGZCC654AA0JGc9Yi5ejwNrD9lYrjsGLORNtGYA0Y/edit?usp=sharing)
@@ -53,8 +54,9 @@ AHP（階層分析法）を用いて、ユーザーが自分の重視する基�
 [アプリの改善案_Googleスプレットシート]](./)
 
 ## バージョン情報
-- 2025/10/01 バージョン 1.0.0 リリース　AHPプロジェクト管理機能搭載
-- 2025/10/19 バージョン 2.0.0 リリース　楽天APIを使用した商品検索機能の実装
+- 2025/10/01 バージョン 1.0.0 リリース　AHPにおけるプロジェクト管理機能搭載
+- 2025/10/19 バージョン 2.0.0 リリース　RakutenAPIを使用した商品検索機能搭載
+- 2025/10/24 バージョン 3.0.0 リリース　AI(GeminiAPI)を使用した商品情報の要約機能搭載
 
 ## 備考
 [ESLintの実行結果_GitHub_Actions](./)
