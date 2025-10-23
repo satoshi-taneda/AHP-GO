@@ -26,7 +26,11 @@ AHP-GOは、ユーザーが複数の候補（商品やサービス）を合理�
 - バージョン管理：Git、GitHub
 - テスト・デバッグ：DevTools（Safari）
 - CI/CD：GitHub Actions（ESLint）
-- API: Google OAuth、Supabase Auth、Rakuten Developers、Gemini API
+- API:
+  - Google Gemini API
+  - Google OAuth
+  - Supabase Auth
+  - Rakuten Developers
 
 ## 設計ドキュメント
 [要件定義・基本設計・詳細設計の一覧_Googleスプレットシート](https://docs.google.com/spreadsheets/d/1V91GRCaYrSsLrcwU9XdJmRWXALMv9mCTmsPwTVjy8nw/edit?usp=share_link)
