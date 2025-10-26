@@ -42,15 +42,15 @@ AHP-GOは、ユーザーが複数の候補（商品やサービス）を合理�
   - メールアドレス認証
   - Google認証
 - AHP実施
-- AHP計算(総合評価の計算など)
-- CI(整合度)チェック
-- 棒グラフ表示
+  - AHP計算(総合評価の計算など)
+  -  CI(整合度)チェック
+- グラフ表示
 - プロジェクト管理
   - 最終目標・評価基準・候補の作成
   - 最終目標・評価基準・候補の編集
   - 最終目標・評価基準・候補の削除
-- RakutenAPIを使用した商品検索
-- GeminiAPIを利用した商品情報の要約
+- 商品検索
+- 商品情報の要約
 
 ## テスト修正の設計及び実施書
 [テスト修正の設計及び実施書_Googleスプレットシート](https://docs.google.com/spreadsheets/d/1l6FGZCC654AA0JGc9Yi5ejwNrD9lYrjsGLORNtGYA0Y/edit?usp=sharing)
