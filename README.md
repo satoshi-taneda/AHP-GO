@@ -55,7 +55,7 @@ AHP-GOは、ユーザーが複数の候補（商品やサービス）を合理�
 [テスト修正の設計及び実施書_Googleスプレットシート](https://docs.google.com/spreadsheets/d/1l6FGZCC654AA0JGc9Yi5ejwNrD9lYrjsGLORNtGYA0Y/edit?usp=sharing)
 
 ## アプリの改善案
-[アプリの改善案_Googleスプレットシート]](./)
+[アプリの改善案_Googleスプレットシート]](https://docs.google.com/spreadsheets/d/16qADUG1UQzAl7P2zXhYDQ3DoNlDcob7yfZ9y_fcZJjk/edit?usp=sharing)
 
 ## バージョン情報
 - 2025/10/01 バージョン 1.0.0 リリース　AHPにおけるプロジェクト管理機能搭載
