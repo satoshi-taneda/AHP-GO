@@ -13,7 +13,7 @@ AHP-GOは、ユーザーが複数の候補（商品やサービス）を合理�
 
 ## サイトURL
 [https://ahp-go-app.vercel.app](https://ahp-go-app.vercel.app)
-### 以下のユーザでゲストログイン可能です。
+### 以下のユーザでゲストログインし、すぐにチュートリアルを開始できます。
 - ユーザID: q1dj1e527m@sute.jp
 - PassWord: Test0804
 
