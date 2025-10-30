@@ -10,7 +10,7 @@ AHP-GOは、ユーザーが複数の候補（商品やサービス）を合理�
 - PC・スマホ両対応。
   
 ## サイトイメージ
-![アプリ画面](/docs/HomePage.png)
+![アプリ画面](/docs/imgHome.png)
 
 ## サイトURL
 [https://ahp-go-app.vercel.app](https://ahp-go-app.vercel.app)
