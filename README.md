@@ -16,6 +16,7 @@ AHP-GOは、ユーザーが複数の候補（商品やサービス）を合理�
 ### 以下のユーザでログインして、すぐにチュートリアルを開始できます。
 - ユーザID: q1dj1e527m@sute.jp
 - PassWord: Test0804
+  ※スマホ対応
 
 ## 使用技術
 - フロントエンド：Next.js、React(React HooksまたはContext API)、Tailwind CSS
