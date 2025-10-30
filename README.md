@@ -9,7 +9,7 @@ AHP-GOは、ユーザーが複数の候補（商品やサービス）を合理�
 - 通常のECとは異なり、「意思決定支援」に特化。
   
 ## サイトイメージ
-![アプリ画面](/docs/Home.png)
+![アプリ画面](/docs/HomePage.png)
 
 ## サイトURL
 [https://ahp-go-app.vercel.app](https://ahp-go-app.vercel.app)
