@@ -33,7 +33,7 @@ AHPの一対比較画面のイメージです。
 ## 設計ドキュメント
 [要件定義・基本設計・詳細設計の一覧_Googleスプレットシート](https://docs.google.com/spreadsheets/d/1V91GRCaYrSsLrcwU9XdJmRWXALMv9mCTmsPwTVjy8nw/edit?usp=share_link)
 
-詳細設計時のワイヤーフレーム、E-R図、フローチャートの画像はdocsディレクトリに格納しています。[こちらからアクセス](./docs)
+詳細設計時のワイヤーフレーム、E-R図、フローチャートの画像はdocsに格納しています。[こちらからアクセス](./docs)
 
 ## 機能一覧
 - 会員登録・ログイン機能
