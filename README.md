@@ -12,7 +12,7 @@ AHP-GOは、ユーザーが複数の候補（商品やサービス）を合理�
   
 ## サイトイメージ
 AHPの一対比較画面のイメージです。
-![アプリ画面](/docs/pairwise.png)
+![アプリ画面](/docs/imgPairwise.png)
 
 ## サイトURL
 [https://ahp-go-app.vercel.app](https://ahp-go-app.vercel.app)
